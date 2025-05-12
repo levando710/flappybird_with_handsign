@@ -6,5 +6,5 @@ Cách cài đặt:
   + Sử dụng 3 cử chỉ để điều khiển game:
      - Xoè chụm các ngón tay để bay lên
      - Nắm tay để ngắt bay
-     - Tay hình chữ C để bắt đầu game
+     - Tay hình chữ C để bắt đầu game  
 Lưu ý: Đây là BTL môn AI của cô NTM Trang, những khoá sau có ý định copy để nộp phải chú ý tên giảng viên mình học
